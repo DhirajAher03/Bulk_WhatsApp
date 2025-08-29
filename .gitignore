@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build outputs
+client/build/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Cache
+.cache
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# WhatsApp session data
+server/session.json
